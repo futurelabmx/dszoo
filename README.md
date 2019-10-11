@@ -5,4 +5,4 @@ Zoológico de estructuras de datos de Future Lab. 🚀
 ## Contribuidores
 
 - [jsistos](https://github.com/jsistos)
-- [Pedro A. Guardado] (https://github.com/PAGuardado)
+- [PAGuardado](https://github.com/PAGuardado)
