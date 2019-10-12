@@ -9,4 +9,5 @@ Zoológico de estructuras de datos de Future Lab. 🚀
 - [RamiroFuentes](https://github.com/RamiroFuentes)
 - [RodolfoFerro](https://github.com/RodolfoFerro)
 - [Gabriel_Garcia](https://github.com/gargargabs)
-[ZaidTheJedi](https://github.com/ZaidTheJedi)
+- [ZaidTheJedi](https://github.com/ZaidTheJedi)
+
