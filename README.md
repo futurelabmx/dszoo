@@ -1,4 +1,4 @@
-# Zoológico de estructuras de datos
+# Zoológico de estructuras de datos 🚀
 
 Este proyecto es un recopilatorio de estructuras de datos y algoritmos útiles
 
