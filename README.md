@@ -1,6 +1,6 @@
-# Zoológico de algoritmos
+# Zoológico de estructuras de datos
 
-Este proyecto es un recopilatorio de algoritmos útiles
+Este proyecto es un recopilatorio de estructuras de datos y algoritmos útiles
 
 ## Desarrollo
 
