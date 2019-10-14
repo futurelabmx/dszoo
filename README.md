@@ -22,5 +22,5 @@ Este proyecto usa la lincencia MIT
 
 ## Agradecimientos
 
-* Este proyecto se hizo gracias a nuestro supremio lider [RodolfoFerro](https://github.com/RodolfoFerro)
+* Este proyecto se hizo gracias a nuestro supremo lider [RodolfoFerro](https://github.com/RodolfoFerro)
 * Danke schön
