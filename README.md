@@ -15,7 +15,7 @@ Los algoritmos están hechos en python, y se desplegarán mediante Flask en un s
 - [Gabriel_Garcia](https://github.com/gargargabs)
 - [ZaidTheJedi](https://github.com/ZaidTheJedi)
 - [CristopherA96](https://github.com/CristopherA96)
-
+- [Domingo Cajina](https://github.com/Physicworld)
 
 ## Licencia
 
