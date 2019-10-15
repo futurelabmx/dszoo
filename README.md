@@ -6,9 +6,6 @@ Este proyecto es un recopilatorio de estructuras de datos y algoritmos útiles.
 
 Los algoritmos serán hechos en Python, y se desplegarán mediante Flask en un sitio web.
 
-## Hall of Fame
-[![](https://sourcerer.io/fame/RamiroFuentes/RamiroFuentes/dszoo/images/0)](https://sourcerer.io/fame/RamiroFuentes/RamiroFuentes/dszoo/links/0)[![](https://sourcerer.io/fame/RamiroFuentes/RamiroFuentes/dszoo/images/1)](https://sourcerer.io/fame/RamiroFuentes/RamiroFuentes/dszoo/links/1)[![](https://sourcerer.io/fame/RamiroFuentes/RamiroFuentes/dszoo/images/2)](https://sourcerer.io/fame/RamiroFuentes/RamiroFuentes/dszoo/links/2)[![](https://sourcerer.io/fame/RamiroFuentes/RamiroFuentes/dszoo/images/3)](https://sourcerer.io/fame/RamiroFuentes/RamiroFuentes/dszoo/links/3)[![](https://sourcerer.io/fame/RamiroFuentes/RamiroFuentes/dszoo/images/4)](https://sourcerer.io/fame/RamiroFuentes/RamiroFuentes/dszoo/links/4)[![](https://sourcerer.io/fame/RamiroFuentes/RamiroFuentes/dszoo/images/5)](https://sourcerer.io/fame/RamiroFuentes/RamiroFuentes/dszoo/links/5)[![](https://sourcerer.io/fame/RamiroFuentes/RamiroFuentes/dszoo/images/6)](https://sourcerer.io/fame/RamiroFuentes/RamiroFuentes/dszoo/links/6)[![](https://sourcerer.io/fame/RamiroFuentes/RamiroFuentes/dszoo/images/7)](https://sourcerer.io/fame/RamiroFuentes/RamiroFuentes/dszoo/links/7)
-
 ## Colaboradores
 
 - [jsistos](https://github.com/jsistos)
