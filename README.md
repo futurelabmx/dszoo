@@ -10,14 +10,7 @@ A lo largo del proyecto iremos estudiando los capítulos más representativos de
 Utilizando [_Flask_](https://palletsprojects.com/p/flask/) crearemos una aplicación web para acceder a nuestra colección de algoritmos escritos en python.
 
 ## Colaboradores
-- [jsistos](https://github.com/jsistos)
-- [PAGuardado](https://github.com/PAGuardado)
-- [RamiroFuentes](https://github.com/RamiroFuentes)
-- [RodolfoFerro](https://github.com/RodolfoFerro)
-- [gargargabs](https://github.com/gargargabs)
-- [ZaidTheJedi](https://github.com/ZaidTheJedi)
-- [CristopherA96](https://github.com/CristopherA96)
-- [Physicworld](https://github.com/Physicworld)
+
 
 ## Licencia
 
