@@ -1,30 +1,33 @@
 {% extends "base.html" %}
 {% block content %}
 
-<div class="container rounded" style="margin-top:5%">
+<div class="container rounded" style="margin-top:5%;margin-bottom:5%">
     <div class="jumbotron jumbotron-fluid"
         style="background-color: #5a7e94; border-radius:5px; text-align: center; color: white; font-family: Verdana;">
         <div class="container">
             <h1 class="display-4"><b>Future Zoo</b></h1>
-            <p class="lead"> ¡Estructuras de datos opensocurce por la comunidad de la Universidad de Guanajuato! </p>
+            <p class="lead"> ¡Estructuras de datos open source por la comunidad de la Universidad de Guanajuato! </p>
         </div>
         <button type="button" class="btn btn-danger"
-            style="width: 20%; background-color: #cb503f; color:white; border-color: #cb503f; margin-right: .5%;">Frameworks</button>
+            style="width: auto; background-color: #cb503f; color:white; border-color: #cb503f; margin-right: .5%;">Frameworks</button>
         <button type="button" class="btn btn-danger"
-            style="width: 20%; background-color: #cb503f; color:white; border-color: #cb503f; margin-left: .5%;">Categorías</button>
-    </div>
-
+            style="width: auto; background-color: #cb503f; color:white; border-color: #cb503f; margin-left: .5%;">Categorías</button>
+        </div>
+<!-- BARRA DE BUSQUEDA EN HOME 
     <form class="form-inline">
-        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" style="width: 80%;">
+        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" style="width: auto;">
         <button class="btn btn-outline-success my-2 my-sm-0" type="submit"
-            style="width: 18%; background-color: #cb503f; color:white; border-color: #cb503f;">Search</button>
+            style="width: auto; background-color: #cb503f; color:white; border-color: #cb503f;">Search</button>
     </form>
+-->
     <hr>
 
     <!-- Sección de Tarjetas-->
     <div class="row">
 
         <div class="row mx-auto">
+
+            <!-- Ciclo para las etiquetas-->
             {% for i in range(1,10)%}
             <div class="col-sm-4">
                 <div class="card shadow" style="margin:5%;">
@@ -34,11 +37,17 @@
                         <hr>
                         <h5 class="card-title">Estructura {{i}}</h5>
                         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                        <a href="#" class="btn btn-outline-primary">Dummy button</a>
+                        <a href="#" class="btn btn-outline-primary">Framework</a>
+                        <br>
+                        <br>
+                        <a href="#" class="btn btn-outline-success" style="">Categoría</a>
                     </div>
                 </div>
             </div>
             {% endfor %}
+
         </div>
+    </div>
+</div>
 
 {% endblock %}

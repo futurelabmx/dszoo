@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="jumbotron jumbotron-fluid">
+    <div class="container">
+        <h1 class="display-4 text-center">Miembros del equipo</h1>
+    </div>
+</div>
+
+
+<div class="container mx-auto row" style="margin-top:5%; margin-bottom:5%">
+               <!-- Ciclo para las etiquetas-->
+               {% for member in miembros%}
+               <div class="col-sm-4">
+                   <div class="card shadow" style="margin:5%;">
+                       <div class="card-body text-center">
+                           <img src="{{member["imagen"]}}"
+                               class="card-img-top">
+                           <hr>
+                           <h5 class="card-title">{{member["Nombre"]}}</h5>
+                           <p class="card-text">{{member["Descripcion"]}}</p>
+                           <a href="{{member["GitHub"]}}" class="btn btn-outline" style="background-color: rgb(153, 70, 165);color: white; "><b>Github</b></a>
+                       </div>
+                   </div>
+               </div>
+               {% endfor %}
+</div>
+{% endblock %}
